@@ -1,0 +1,135 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(#1354A5 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
+}
+
+body::before {
+  display: block;
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  opacity: 0.4;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-image: url(assets/code.png);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 80%;
+  height: 80%;
+  border-radius: 24px;
+  background-image: url(assets/Ruido.png);
+  background-size: 100% 100%;
+  border: 1px solid #1875E8;
+  box-shadow: 4px 4px 20px 0px rgba(1,8,14,0.15);
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+}
+
+.information {
+  flex: 1;
+  padding: 20px;
+}
+
+.text {
+  margin: 16px 0px;
+}
+
+.text span {
+  color: #1875E8;
+}
+
+.text h1 {
+  padding-bottom: 32px;
+  font-size: 72px;
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+.text p {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.text p, button {
+  font-family: 'Inter', sans-serif;
+}
+
+.information input {
+  border: none;
+  width: 100%;
+  height: 72px;
+  padding: 32px;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: 'Inter', sans-serif;
+  color: #1875E8;
+  border-radius: 16px;
+  background-color: #fff;
+}
+
+.buttons {
+  display: flex;
+  gap: 32px;
+}
+
+.buttons button {
+  border: none;
+  width: 100%;
+  padding: 16px 24px;
+  margin-top: 16px;
+  font-size: 24px;
+  font-weight: 700;
+  border-radius: 16px;
+  background: #1875E8;
+}
+
+button:disabled {
+  background-color: gray;
+}
+
+@media screen and (max-width: 1250px) {
+  h1 {
+    font-size: 50px;
+  }
+
+  .buttons {
+    font-size: 16px;
+  }
+
+  .texto-paragrafo {
+    font-size: 24px;
+  }
+
+  main img {
+    display: none;
+  }
+
+  .content {
+    display: block;
+    position: inherit;
+  }
+
+  .information {
+    padding: 16px;
+  }
+}

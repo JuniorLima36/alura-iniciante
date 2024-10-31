@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="assets/favicon.jpg" type="image/jpg">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@400;700&display=swap">
+  <link rel="stylesheet" href="style.css">
+  <title>JS Game</title>
+</head>
+<body>
+  <div class="container">
+    <main class="content">
+      <section class="information">
+        <article class="text">
+          <h1>Descubra o <span>Número Secreto</span></h1>
+          <p>Escolha um número entre 1 a 10</p>
+        </article>
+        <input type="number" min="1" max="10">
+        <article class="buttons">
+          <button onclick="checkGuess()">Chutar</button>
+          <button id="restart" onclick="restartGame()" disabled>Novo Jogo</button>
+        </article>
+      </section>
+      <img src="assets/ia.png" alt="">
+    </main>
+  </div>
+  <script src="https://code.responsivevoice.org/responsivevoice.js?key=FG0ggXAd"></script>
+  <script src="script.js"></script>
+</body>
+</html>
