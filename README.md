@@ -1,31 +1,44 @@
-# 🚀 Projetos do Curso: Iniciante em Programação T7 - ONE 
-Este projeto faz parte do curso Iniciante em Programação T7 oferecido pelo programa Alura + Oracle Next Education (ONE), uma iniciativa da Oracle em parceria com a Alura para promover o aprendizado e desenvolvimento de habilidades em programação e tecnologia.
+# 🚀 Iniciante em Programação - T7 | Alura + Oracle Next Education
 
+## 📋 Descrição do Curso
 
-## 🧊 Sobre o Curso
-O curso Iniciante em Programação T7 foi criado para introduzir conceitos fundamentais de programação, desenvolvimento web e lógica computacional. O objetivo é capacitar pessoas para que, ao final do curso, estejam preparadas para criar suas próprias aplicações e dar os primeiros passos na carreira de desenvolvimento de software.
+O curso "Iniciante em Programação" é parte do programa Oracle Next Education (ONE), que visa capacitar pessoas em tecnologia e conectá-las ao mercado de trabalho. Este curso 100% online e gratuito é ideal para quem deseja transformar sua realidade social e adquirir habilidades em programação, com foco na criação de sites utilizando as linguagens HTML, CSS e JavaScript.
 
-## # Conteúdos Principais
-O curso aborda os seguintes tópicos:
+## 🧊 Conteúdo do Curso
 
-- **Fundamentos de Programação:** introdução a variáveis, operadores, tipos de dados e estruturas de controle.
-- **Desenvolvimento Web:** conceitos de HTML, CSS e JavaScript para a criação de páginas e interfaces web.
-- **Práticas de Projeto:** construção de projetos práticos que incentivam o aprendizado e a aplicação dos conceitos em um ambiente de simulação real.
+### 1. Aprenda Lógica de Programação
 
-## # Objetivo do Projeto
+A lógica de programação é essencial para resolver problemas através de sequências de passos. Os alunos aprenderão a elaborar comandos que o computador entende, estabelecendo as bases para o desenvolvimento de software.
 
-O projeto final tem como objetivo consolidar os conhecimentos adquiridos ao longo do curso. A proposta inclui:
+- **Cursos e Artigos Concluídos**:
+  - Artigo: 5 Dúvidas de quem quer iniciar na carreira de programação
+  - Curso: Lógica de Programação com JavaScript
+  - Curso: Exploração de funções e listas
 
-- Criar uma aplicação que permita interação com o usuário.
-- Utilizar HTML, CSS e JavaScript para estruturar, estilizar e dar funcionalidade à aplicação.
-- Garantir uma experiência de uso responsiva e adaptável a diferentes dispositivos.
+### 2. Criação de Páginas Web
 
-## 🛠️ Tecnologias Utilizadas
+Os alunos aprenderão a criar layouts para páginas web estáticas utilizando HTML e CSS. Este módulo prepara o terreno para a interatividade que será abordada em projetos futuros.
 
-- HTML: para a estruturação de conteúdo.
-- CSS: para estilização e design responsivo.
-- JavaScript: para a lógica de interação e consumo de dados.
+- **Cursos e Artigos Concluídos**:
+  - Artigo: HTML, CSS e JavaScript, quais as diferenças?
+  - Curso: HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
+  - Curso: Trabalhando com responsividade e publicação de projetos
 
-## 🧩 Sobre a Oracle Next Education (ONE)
+### 3. Ganhe Experiência com Git
 
-O programa Oracle Next Education (ONE) é uma iniciativa global que visa transformar vidas por meio da educação em tecnologia. Ao oferecer cursos de alta qualidade e preparar profissionais para o mercado de trabalho, a Oracle contribui para o crescimento pessoal e profissional de pessoas de todas as origens.
+O conhecimento sobre Git e GitHub é fundamental para trabalhar em equipe. Os alunos aprenderão a utilizar o sistema de versionamento de código mais utilizado, que permite compartilhar e gerenciar o código de forma segura.
+
+- **Cursos e Artigos Concluídos**:
+  - Artigo: Git e GitHub: O que são, Como Configurar e Primeiros Passos
+  - Curso: Git e GitHub: compartilhando e colaborando em projetos
+
+### 4. Encare o Challenge de Iniciante em Programação
+
+Os Desafios Alura implementam o método Challenge Based Learning, onde os alunos aprendem por meio de desafios práticos. O Challenge Decodificador de Texto é uma oportunidade para aprimorar a lógica de programação e expandir a visão no mundo do desenvolvimento.
+
+- **Curso Concluído**:
+  - Curso: Praticando lógica de programação: Challenge Decodificador de Texto
+
+## 🧩 Conclusão
+
+Este curso é uma excelente porta de entrada para o universo da programação. Ao final, os alunos estarão preparados para enfrentar novos desafios no mercado de trabalho, possuindo habilidades práticas em programação e uma compreensão sólida de como trabalhar em equipe no desenvolvimento de software.
